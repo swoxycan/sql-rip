@@ -25,11 +25,6 @@ Hiçbir ek kurulum gerekmez! Sadece `.exe` dosyasını indirin ve çalıştırı
    - `username_list.txt`: Kullanıcı adları
    - `password_list.txt`: Şifreler
 
-## 📂 Çıktı Örneği
-
-- **username_list.txt**: Kullanıcı adları listesi 📄
-- **password_list.txt**: Şifreler listesi 📄
-
 ## 📷 Uygulamaya Ait Resimler
 
 
