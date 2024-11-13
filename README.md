@@ -21,7 +21,7 @@ Hiçbir ek kurulum gerekmez! Sadece `.exe` dosyasını indirin ve çalıştırı
 
 1. SQL dosyanızı (örneğin `database.sql`) `.exe` dosyasının bulunduğu dizine yerleştirin.
 2. `SQLRiP.exe` dosyasını çalıştırın.
-3. İşlem tamamlandığında, **kullanıcı adı** ve **şifre** bilgilerini içeren dosyalar aynı dizine kaydedilecektir:
+3. İşlem tamamlandığında, **kullanıcı adı** ve **şifre** bilgilerini içeren dosyaları istediğiniz yere kaydedebilirsiniz:
    - `username_list.txt`: Kullanıcı adları
    - `password_list.txt`: Şifreler
 
