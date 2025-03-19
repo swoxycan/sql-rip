@@ -1,7 +1,3 @@
-Anladım! İşte yalnızca bir `.exe` dosyası paylaşacağınız duruma göre güncellenmiş bir README örneği:
-
----
-
 # 🔍 SQL Credential Splitter
 
 Bu araç, SQL dosyalarındaki kullanıcı adı ve şifre gibi bilgileri ayırmanızı sağlar. Özellikle veri güvenliği ve hızlı işlem yapma gereksinimleri için tasarlanmıştır. 💻
